@@ -300,6 +300,17 @@ When you’re used to writing for professors or parents or friends or anyone els
 
 ### 1.2 The XY Problem
 
+The XY problem is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help. What to do about it? Always include information about a broader picture along with any attempted solution; If someone asks for more information, do provide details; If there are other solutions you've already ruled out, share why you've ruled them out. This gives more information about your requirements
 
+### 1.3 Bike-shedding
 
+Bike-shedding happens when instead of dealing with real problems that are very hard to tackle & possibly out of your comfort zone, you focus on completely unimportant details - just because you know how to deal with those or they are somehow more appealing to you personally. What to do about it? proper backlog management - either one backlog (as a place where "work items" come from) or few, but with a clear rules for capacity pool split; All work made fully visible - e.g. in a project mgmt/ticketing system; Don't be afraid of experiments, but make them manageable -> limit WiP for experiments, for each of them clarify the goal, make it clear that outcomes & conclusions need to be documented & validated against the goal; 
+
+### 1.4 E-mail like a boss
+
+![image](https://github.com/user-attachments/assets/3e5410d5-fc35-48d1-8f0a-a3340b0a944f)
+
+### Swiss-Cheese Calendar
+
+Does your calendar look like a swiss-cheese? A bunch of meetings spread out throughout the week with only 1-2 hours of gaps in between them. Swiss-cheese calendar causes a massive amount of context-switch between different work priorities. By the time one meeting ends and another one starts, there isn't any time left to do the work. Even a 1-2 hours gap between meetings is not enough. Fixing the swiss-cheese calendar: 1. Identify the 4-hour work block—the time when you are most productive; 2. Pick at least three days of the week for the work block (Depending on your experience level, the number of days per week may vary. But junior members should be able to get five work blocks per week.); 3. Schedule the work blocks on your calendar three weeks out; 4. Start moving meetings towards the beginning or end of the workday.
 
