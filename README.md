@@ -291,3 +291,15 @@ Here are some examples of what we do with Machine Learning, the technology behin
 - Help publishers estimate their impact by detecting copycat articles.
 
 We work hard and we have fun together. We foster a culture of collaboration, where each team member feels supported when taking on a challenge, and trusted when taking on responsibility.
+
+## Notes
+
+### 1.1 BLUF
+
+When you’re used to writing for professors or parents or friends or anyone else who is obligated to read your writing, it’s easy to forget that in the real world you need to put in work for your reader’s attention. You put in work by including all necessary context, getting to the point (start with bottom line, then add supporting information), and revising until all evidence of your thought process is off the page.
+
+### 1.2 The XY Problem
+
+
+
+
